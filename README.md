@@ -29,12 +29,16 @@ This repository contains simple, real-world examples of how I use AI tools and a
 
 ## ✅ Example 4: Streamlined Project Intake (Google Form + Zapier + Asana)
 **Problem:** Team leads would send project requests by email or Slack, making it hard to track priorities and deadlines.
+
 **Solution:** Created a Google Form for project intake. Responses are sent to a Google Sheet, then Zapier adds the project as a task in Asana with tags, due dates, and assignees — all automatically.
+
 **Impact:** Reduced manual entry, ensured nothing slipped through the cracks, and gave visibility across the team’s backlog.
 
 ## 📂 Example 5: Auto-Save Client Files (Gmail + Dropbox + Slack)
 **Problem:** Important client attachments needed to be archived and shared without delay.
+
 **Solution:** Used Zapier to auto-download email attachments from starred Gmail messages, save them to Dropbox in client-named folders, and post a confirmation with the link in Slack.
+
 **Why It Works:** It's not about Dropbox itself — it's about using cloud storage as a structured endpoint in a larger workflow.
 
 ## 🧾 More Coming Soon...
