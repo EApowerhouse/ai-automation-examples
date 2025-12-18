@@ -39,7 +39,7 @@ This repository contains simple, real-world examples of how I use AI tools and a
 
 **Solution:** Used Zapier to auto-download email attachments from starred Gmail messages, save them to Dropbox in client-named folders, and post a confirmation with the link in Slack.
 
-**Why It Works:** It's not about Dropbox itself — it's about using cloud storage as a structured endpoint in a larger workflow.
+**Why It Works:** It's not about Dropbox itself, it's about using cloud storage as a structured endpoint in a larger workflow.
 
 ## 🧾 More Coming Soon...
 I'm actively building out this library of tools and how I use them in practical, low-code workflows.
